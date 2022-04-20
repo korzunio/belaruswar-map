@@ -170,7 +170,6 @@
 
 .content {
   flex: 1 0 auto;
-  margin-bottom: 15px;
 }
 
 .footer {
@@ -8023,7 +8022,7 @@ fieldset:disabled .btn {
 }
 
 .mt-5 {
-  margin-top: 3rem !important;
+  margin: 50px 50px;
 }
 
 .mt-auto {
