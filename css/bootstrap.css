@@ -8022,7 +8022,8 @@ fieldset:disabled .btn {
 }
 
 .mt-5 {
-  margin: 50px 50px;
+  margin-top: 50px;
+  margin-bottom: 50px
 }
 
 .mt-auto {
